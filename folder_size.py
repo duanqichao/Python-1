@@ -7,7 +7,7 @@
 # Modifications : Modified the Printing method and added a few comments
 
 # Description   : This will scan the current directory and all subdirectories and display the size.
-# 统计当前文件夹和子文件夹、子文件的大小
+# 统计当前文件夹的大小
 
 import os
 import sys      # Load the library module and the sys module for the argument vector'''
